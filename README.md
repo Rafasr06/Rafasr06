@@ -2,7 +2,7 @@
 - Estudante de Análise e Desenvolvimento de Sistemas
 - Estagiário na Omotor/CNIA
 
-💻 Tecnologias:
+- Tecnologias:
 <h2> Python</h2>
 
 <p align="center">
