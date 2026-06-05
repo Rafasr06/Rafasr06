@@ -1,6 +1,6 @@
 # Rafael Simões Rocha
-🎓 Estudante de Análise e Desenvolvimento de Sistemas
-💼 Estagiário na Omotor/CNIA
+- Estudante de Análise e Desenvolvimento de Sistemas
+- Estagiário na Omotor/CNIA
 
 💻 Tecnologias:
 <h2> Python</h2>
