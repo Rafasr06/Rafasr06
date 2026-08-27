@@ -1,26 +1,16 @@
 
-🚀 Principais tecnologias
+🛠️ Tecnologias
 
 <div align="center">
 
-🐍 Python
+<img src="https://skillicons.dev/icons?i=python,docker,fastapi,postgres,git,github,aws,java,c" />
 
-<img src="https://skillicons.dev/icons?i=python" width="80">
+</div>
 
-🐳 Docker
+<br>
 
-<img src="https://skillicons.dev/icons?i=docker" width="80">
+<div align="center">
 
-🤖 Inteligência Artificial
-
-<img src="https://skillicons.dev/icons?i=python,fastapi" />
-
-🗄️ Banco de Dados
-
-<img src="https://skillicons.dev/icons?i=postgres" />
-
-☁️ Cloud & DevOps
-
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" /> <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" /> <img src="https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge" />
 
 </div>
